@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    
+}
+.personal{
+    font-size: x-large;
+    border: 5px solid black;
+}
+.phone{
+    font-size: x-large;
+}
+.phone>strong, .email>strong{
+color: red;
+}
+.email{
+    font-size: x-large;
+}
+.qr{
+font-size: x-large;
+display: flex;
+text-align: center;
+justify-content: center;
+font-weight: bold;
+color:rgb(247, 0, 193);
+}
